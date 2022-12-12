@@ -1,4 +1,5 @@
 baseURL = 'https://frugivory.github.io/tamarind/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Plants of Tamarind'
+# theme = 'ananke'
+theme = "coyote"
