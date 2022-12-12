@@ -1,5 +1,13 @@
 baseURL = 'https://frugivory.github.io/tamarind/'
 languageCode = 'en-us'
 title = 'Plants of Tamarind'
-# theme = 'ananke'
+# paginate = '9'
 theme = "coyote"
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "search/"
+
+[outputs]
+home = [ "HTML", "JSON" ]
