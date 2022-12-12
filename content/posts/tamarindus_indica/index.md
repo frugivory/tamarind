@@ -1,8 +1,10 @@
 ---
-title: "Tamarindus Indica"
+title: "Tamarindus indica"
 date: 2022-12-12T08:47:37-05:00
 image: "Tamarindus_indica_leaves_pod.jpeg"
 ---
+
+images and text COPIED from https://en.wikipedia.org/wiki/Tamarind
 
 Tamarind (Tamarindus indica) is a leguminous tree bearing edible fruit that is probably indigenous to tropical Africa. The genus Tamarindus is monotypic, meaning that it contains only this species. It belongs to the family Fabaceae.
 
