@@ -1,8 +1,7 @@
 ---
 title: "Coccothrinax borhidiana"
 date: 2022-12-12T08:47:37-05:00
-image: "Moringa_oleifera_leaves.jpg"
+image: "coccothrinax_borhidiana_young_rock_tam.jpeg"
 ---
 
-images and text COPIED from https://en.wikipedia.org/wiki/Moringa_oleifera
-
+![pic](coccothrinax_borhidiana_young_sand_tam.jpeg)
