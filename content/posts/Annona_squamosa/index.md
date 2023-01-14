@@ -7,5 +7,5 @@ image: "annona_squamosa_fruit_tam.jpg"
 # Description
 Commonly referred to as "Sugar Apple".
 
-![leaves](annona_squamosa_leaves.jpg)
+![leaves](annona_squamosa_leaves_tam.jpg)
 
