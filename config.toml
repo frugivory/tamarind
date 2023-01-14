@@ -2,7 +2,7 @@ baseURL = 'https://frugivory.github.io/tamarind/'
 languageCode = 'en-us'
 title = 'Plants of Tamarind'
 # paginate to a multiple of 6 (3X2) to make it pretty on desktop and mobile!
-paginate = '12'
+paginate = '6'
 theme = "coyote"
 
 [[menu.main]]
