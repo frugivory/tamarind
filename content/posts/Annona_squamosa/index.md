@@ -1,6 +1,7 @@
 ---
 title: "Annona squamosa"
 date: 2022-12-12T08:47:37-05:00
+common_name: "Sugar Apple"
 image: "annona_squamosa_fruit_tam.jpg"
 ---
 

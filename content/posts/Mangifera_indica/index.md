@@ -1,5 +1,6 @@
 ---
 title: "Mangifera indica"
+common_name: "Sugar Apple"
 date: 2022-12-12T08:47:37-05:00
 image: "mango_leaves_fruit.jpg"
 ---

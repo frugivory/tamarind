@@ -1,5 +1,6 @@
 ---
-title: "Areca ccatechu"
+title: "Areca catechu"
+common_name: "Betel Nut Palm"
 date: 2022-12-12T08:47:37-05:00
 image: "Moringa_oleifera_leaves.jpg"
 ---
