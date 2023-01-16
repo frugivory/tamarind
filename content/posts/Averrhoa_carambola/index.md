@@ -1,6 +1,6 @@
 ---
-title: "Averrhoa carambola"
-common_name: "Sugar Apple"
+title: "Star Fruit"
+scientific_name: "Averrhoa carambola"
 date: 2022-12-12T08:47:37-05:00
 image: "averrhoa_carambola_fruit_tam.jpg"
 ---

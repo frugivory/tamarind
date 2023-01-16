@@ -16,7 +16,8 @@
       <div class="resultItem__media" style="background-image: url({{ (print .Permalink .Params.image) | absURL }});"></div>
       <div class="resultItem__body">
         <h3 class="resultItem__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <div class="resultItem__footer">{{ .Date.Format "2006/01/02" }}</div>
+        <!-- this doesn't work for some reason... -->
+        <div class="resultItem__footer"><a href="{{ .Permalink }}">{{ .Params.scientific_name }}</a></div>
       </div>
     </div>
     {{ end }}

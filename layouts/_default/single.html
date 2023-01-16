@@ -14,8 +14,8 @@
   {{ end }}
 
   <section class="post__content">
-    <h1 id="title">{{ .Params.common_name }}</h1>
-    <h2 id="common_name">{{ .Title }} </h1>
+    <h1 id="title">{{ .Title }}</h1>
+    <h3 id="scientific_name">{{ .Params.scientific_name }}</h1>
     <div>
       <article>
           {{ .Content }}

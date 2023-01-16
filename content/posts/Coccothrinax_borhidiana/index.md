@@ -1,6 +1,6 @@
 ---
-title: "Coccothrinax borhidiana"
-common_name: "Sugar Apple"
+title: Borhidiana
+scientific_name: "Coccothrinax borhidiana"
 date: 2022-12-12T08:47:37-05:00
 image: "coccothrinax_borhidiana_young_rock_tam.jpeg"
 ---
