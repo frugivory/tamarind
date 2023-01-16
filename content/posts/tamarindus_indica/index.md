@@ -1,5 +1,6 @@
 ---
-title: "Tamarindus indica"
+title: "Tamarind"
+scientific_name: "Tamarindus indica"
 date: 2022-12-12T08:47:37-05:00
 image: "Tamarindus_indica_leaves_pod.jpeg"
 ---

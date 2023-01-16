@@ -1,5 +1,6 @@
 ---
-title: "Attalea crassispatha"
+title: "Attalea"
+scientific_name: "Attalea crassispatha"
 date: 2022-12-12T08:47:37-05:00
 image: "attelea_crassispatha_baby_tam.jpeg"
 ---
