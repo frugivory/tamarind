@@ -32,7 +32,7 @@
 .results {
   display: flex;
   flex-direction: column;
-  gap: 2.4rem;
+  gap: 2.2rem;
 }
 
 .resultItem {
@@ -57,7 +57,8 @@
   }
 
   &__footer {
-    color: #93a5b1;
-    font-size: 1.1rem;
+    color: #15222b;
+    font-size: 1.6rem;
+    font-style: italic;
   }
 }
